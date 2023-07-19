@@ -11,6 +11,7 @@ export default defineConfig({
       emptyOutDir: false
    },
    plugins: [vue(),
+    
             Pages({
                dirs: 'src/views',
              })  ],
