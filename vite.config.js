@@ -10,6 +10,7 @@ export default defineConfig({
       outDir: './docs',
       emptyOutDir: false
    },
+   base: '/School_MS-frontend/',
    plugins: [vue(),
 
             Pages({
