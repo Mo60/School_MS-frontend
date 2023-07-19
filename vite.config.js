@@ -13,7 +13,7 @@ export default defineConfig({
    plugins: [vue(),
 
             Pages({
-               dirs: 'src/views',
+               dirs: './src/views',
              })  ],
    resolve: {
      alias: {
