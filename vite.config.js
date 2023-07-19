@@ -7,11 +7,11 @@ import Pages from 'vite-plugin-pages'
 export default defineConfig({
    //when deploying 
    build: {
-      outDir: './School_MS-frontend/',
+      outDir: './docs',
       emptyOutDir: false
    },
    plugins: [vue(),
-    
+
             Pages({
                dirs: 'src/views',
              })  ],
