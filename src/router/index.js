@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '@/views/Home.vue'
 
 const router= createRouter({
-  history: createWebHistory("app"),
+  history: createWebHistory("School_MS-frontend"),
   routes:[
     {
       path: '/',

@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar " v-if="!$route.meta.hideNavbar">
   <div class="container">
     
-        <a class="navbar-brand" href="/">The Academy of Art</a>
+        <a class="navbar-brand" href="../">The Academy of Art</a>
         <div class="links">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
