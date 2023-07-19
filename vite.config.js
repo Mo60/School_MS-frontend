@@ -5,7 +5,7 @@ import Pages from 'vite-plugin-pages'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-   //when deoplying 
+   //when deploying 
    build: {
       outDir: '/School_MS-frontend/',
       emptyOutDir: false
